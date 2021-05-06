@@ -1,5 +1,5 @@
 # ReCore
-VR like experience without VR headset
+<p><strong>Android Game</strong></p>
 
 <p><strong>Get VR experience without VR</strong></p>
 <p>This game is about a boy who wakes up in a dream that all his toys have come to life.</p>
